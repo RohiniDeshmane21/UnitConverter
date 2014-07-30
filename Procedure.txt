@@ -1,0 +1,4 @@
+1) Add in mainActivity.java
+2) Create new Class
+3) Create new Layout file
+4) Changes in AndroidManifest.xml file
